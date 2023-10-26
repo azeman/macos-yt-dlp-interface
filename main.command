@@ -3,7 +3,7 @@
 ##### INITIALIZATION
 # User var (please modify)
 # var_outputloc="/Users/YOURUSERNAMEHERE/Movies/yt-dlp"
-var_outputloc="/Users/johndeuf/Movies/yt-dlp"
+var_outputloc="/Users/YOURUSERNAMEHERE/Movies/yt-dlp"
 
 # Other var (don't touch!)
 var_regex='(https?|ftp|file)://[-[:alnum:]\+&@#/%?=~_|!:,.;]*[-[:alnum:]\+&@#/%=~_|]'	# For URL check
