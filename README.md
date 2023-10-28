@@ -17,7 +17,7 @@ With this script, you can:
 # How to install
 Prerequisites:
   1) Homebrew. Installation guide here: https://brew.sh
-  2) yt-dlp and ffmpeg **on honembrew**. (_brew install yt-dlp_ and _brew install ffmpeg_)
+  2) yt-dlp and ffmpeg **on homebrew**. (_brew install yt-dlp_ and _brew install ffmpeg_)
   3) MacOS or OS X. May work with other Bash-based OSes.
 
 Steps :
