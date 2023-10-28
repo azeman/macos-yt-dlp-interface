@@ -12,7 +12,7 @@ With this script, you can:
   - Any downloaded .WEBM files can be quickly converted to .MP4 ;
   - And much more!
 
-https://github.com/azeman/macos-yt-dlp-interface/blob/9b9fde53e9f8485656065c34df937f6d3ca7f9b1/picture.png
+![alt text](https://github.com/azeman/macos-yt-dlp-interface/blob/9b9fde53e9f8485656065c34df937f6d3ca7f9b1/picture.png?raw=true)
 
 # How to install
 Prerequisites:
